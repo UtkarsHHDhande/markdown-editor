@@ -12,9 +12,6 @@ A simple and responsive Markdown editor built with React and Tailwind CSS. This 
 
 - Easy-to-use interface
 
-## Demo
-
-![Markdown Editor Demo](https://markdown-editor-ten-sooty.vercel.app/)
 
 ## Technologies Used
 
