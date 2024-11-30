@@ -14,7 +14,7 @@ A simple and responsive Markdown editor built with React and Tailwind CSS. This 
 
 ## Demo
 
-![Markdown Editor Demo](https://via.placeholder.com/600x400.png?text=Markdown+Editor+Demo)
+![Markdown Editor Demo](https://markdown-editor-ten-sooty.vercel.app/)
 
 ## Technologies Used
 
@@ -75,11 +75,4 @@ For questions or feedback, reach out to:
 ---
 
 Thank you for checking out this Markdown editor project!
-
-
-### Customization Instructions
-
-1. **Update Placeholders**: Replace `yourusername`, `Your Name`, and `your.email@example.com` with your actual GitHub username, name, and email address.
-
-2. **Add Demo Image**: If you have a demo image, replace the placeholder URL with an actual image link.
 
